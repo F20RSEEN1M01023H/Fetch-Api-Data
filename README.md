@@ -51,19 +51,21 @@ A simple React project that fetches **user data** from the [JSONPlaceholder API]
    git clone https://github.com/F20RSEEN1M01023H/Fetch-Api-Data.git
    ```
 
-=> Navigate into project folder
+- Navigate into project folder
 
-=> cd react-user-fetch
+- cd react-user-fetch
 
-=> Install dependencies
+- Install dependencies
 
-=> npm install
+- npm install
 
-=> Run the app
+- Run the app
 
-=> npm start
+- npm start
 
-🚀 Usage
+---
+
+## 🚀 Usage
 
 Open the app in your browser at http://localhost:3000/
 
@@ -71,15 +73,17 @@ Open the app in your browser at http://localhost:3000/
 
 - Each user card shows:
 
-=> Name
+- Name
 
-=> Email
+- Email
 
-=> Phone
+- Phone
 
-=> City
+- City
 
-🤝 Contribution
+---
+
+## 🤝 Contribution
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
