@@ -67,9 +67,9 @@ A simple React project that fetches **user data** from the [JSONPlaceholder API]
 
 Open the app in your browser at http://localhost:3000/
 
-The app will automatically fetch and display users.
+- The app will automatically fetch and display users.
 
-Each user card shows:
+- Each user card shows:
 
 => Name
 
